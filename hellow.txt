@@ -5,3 +5,4 @@ hellow git! hellow wjy
 克隆会拉取代码
 初始化本地库
 创建别名origin
+yASDASFGSDFyy  by wjy
