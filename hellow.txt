@@ -1,11 +1,7 @@
 hellow git! hellow wjy
 hellow git! hellow wjy
 hellow git! hellow wjy
-hellow git! hellow wjy
-hellow git! hellow wjy
-hellow git! hellow
-master
-hellow git! hellow wjy hot-fix
-
-
-xiugailaxiugaila
+你好混蛋！你好wjy
+克隆会拉取代码
+初始化本地库
+创建别名origin
